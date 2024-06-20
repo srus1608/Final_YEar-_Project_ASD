@@ -38,3 +38,6 @@ This project has been published in the Vietnam Journal of Computer Science.
 ## Contributors
 Srushti Talwekar
 Rutuja Anemwad
+
+## PPt Presenatation Link : 
+https://drive.google.com/file/d/18Z5IeZbLLuPxo6LXGDSw6utUEWhFHUDR/view?usp=sharing
